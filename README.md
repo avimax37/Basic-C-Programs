@@ -1,6 +1,6 @@
 # Basic-C-Programs
 
-##Description
+## Description
 
 This repository contains the basic C programs for practice.
 
